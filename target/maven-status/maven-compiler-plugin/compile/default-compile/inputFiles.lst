@@ -1,0 +1,7 @@
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/dao/FabricaDeConexoes.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/dao/ItemMidiaDAO.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/model/ItemMidia.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/web/BuscaServlet.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/web/CadastrarItemServlet.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/web/InicializadorBanco.java
+/home/andrei/Documents/Repositorios/ProjetoIntegrador/ProjetoIntegrador/src/main/java/br/edu/pit/catalogo/web/ListarItensServlet.java

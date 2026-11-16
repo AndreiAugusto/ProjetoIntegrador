@@ -1,0 +1,7 @@
+br/edu/pit/catalogo/web/InicializadorBanco.class
+br/edu/pit/catalogo/model/ItemMidia.class
+br/edu/pit/catalogo/web/ListarItensServlet.class
+br/edu/pit/catalogo/web/CadastrarItemServlet.class
+br/edu/pit/catalogo/dao/ItemMidiaDAO.class
+br/edu/pit/catalogo/web/BuscaServlet.class
+br/edu/pit/catalogo/dao/FabricaDeConexoes.class
