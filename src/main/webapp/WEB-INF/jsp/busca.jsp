@@ -45,7 +45,7 @@
             <tbody>
             <c:forEach var="item" items="${resultado}">
                 <tr>
-                    <td><c:out value="${item.titulo}"/></td>
+                    <td><a href="${pageContext.request.contextPath}/item?id=${item.id}"><c:out value="${item.titulo}"/></a></td>
                     <td><c:out value="${item.autorDiretor}"/></td>
                     <td><c:out value="${item.anoLancamento}"/></td>
                     <td><c:out value="${item.genero}"/></td>
